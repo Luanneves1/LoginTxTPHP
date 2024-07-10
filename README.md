@@ -8,7 +8,7 @@ Este projeto implementa um sistema simples de login e registro em PHP, utilizand
 
 ##Tela do Painel Após o login
 
-![painel](painel_apos_login)
+![painel](painel_apos_login.png)
 
 ## Funcionalidades
 
